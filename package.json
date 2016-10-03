@@ -1,0 +1,19 @@
+{
+  "name": "Hapi-Mongo-CRUD",
+  "version": "1.0.0",
+  "description": "Simple REST project with hapijs and mongodb. Including basic Header authentication",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedran Maricevic",
+  "license": "Dowhatever you like with this code",
+  "dependencies": {
+    "boom": "^3.2.1",
+    "hapi": "^13.4.1",
+    "joi": "^8.4.2",
+    "mongojs": "^2.4.0",
+    "node-uuid": "^1.4.7"
+  }
+}
