@@ -6,10 +6,16 @@ Application does not have UI. All communication is done using cURL or Postman.
 ##Endpoints:
 Please ensure before sending data to server, that you have X-Authentication property in header of your reqeust. That header must have the following value: **letmein**
 
+**GET**
+
 GET --> localhost:XXXX/entities
+
 GET --> localhost:XXXX/entities/_id
 
+**POST / PATCH**
+
 POST --> localhost:XXXX/entities
+
 PATCH --> localhost:XXXX/entities/_id
 
 
