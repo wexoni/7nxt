@@ -36,3 +36,11 @@ Both POST and PATCH use the following JSON:
   "token": "15ffb169-c905-4694-90b5-cd4783b7950e",
   "_id": "99f19ad0-8947-11e6-8ed4-5710b9440656"
 }
+
+
+JSON is validated for presence, and in the case of array value, it is also validate for uniqueness.
+
+
+
+
+
