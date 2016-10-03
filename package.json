@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Vedran Maricevic",
-  "license": "Dowhatever you like with this code",
+  "license": "Do whatever you like with this code",
   "dependencies": {
     "boom": "^3.2.1",
     "hapi": "^13.4.1",
