@@ -14,6 +14,7 @@
     "hapi": "^13.4.1",
     "joi": "^8.4.2",
     "mongojs": "^2.4.0",
-    "node-uuid": "^1.4.7"
+    "node-uuid": "^1.4.7",
+    "some-module":"0.0.0"
   }
 }
